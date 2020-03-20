@@ -7,3 +7,7 @@ project ("Linux-Socket-ori-Cmake")
 
 # 包含子项目。
 add_subdirectory ("test")
+add_subdirectory ("lib")
+add_subdirectory ("tcpcliserv")
+
+
