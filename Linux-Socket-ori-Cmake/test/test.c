@@ -8,5 +8,6 @@
 int main()
 {
 	printf("hello world!\n");
+	err_sys("hello,this is error test");
 	return 0;
 }

@@ -1,0 +1,2 @@
+#LIB_LINUX_SOCKET为当前目录下的所有源文件
+set(LIB_LINUX_SOCKET 1)
