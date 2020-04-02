@@ -46,3 +46,9 @@ void	 Socketpair(int, int, int, int*);
 
 
 void	 err_sys(const char*, ...);
+void     err_quit(const char*, ...);
+
+
+
+
+void	 str_cli(FILE*, int);

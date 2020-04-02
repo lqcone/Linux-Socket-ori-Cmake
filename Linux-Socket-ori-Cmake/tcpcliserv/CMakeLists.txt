@@ -10,5 +10,7 @@ include_directories(${INC_DIR})
 link_directories(${INC_DIR})
 add_executable (tcpserv01 tcpserv01.c  )
 target_link_libraries(tcpserv01 unp)
+add_executable (tcpcli01 tcpcli01.c)
+target_link_libraries(tcpcli01 unp)
 
 # TODO: 如有需要，请添加测试并安装目标。
