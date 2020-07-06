@@ -1,5 +1,12 @@
-F:/开源项目/project/Linux-Socket-ori-Cmake/Linux-Socket-ori-Cmake/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-F:/开源项目/project/Linux-Socket-ori-Cmake/Linux-Socket-ori-Cmake/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-F:/开源项目/project/Linux-Socket-ori-Cmake/Linux-Socket-ori-Cmake/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
-F:/开源项目/project/Linux-Socket-ori-Cmake/Linux-Socket-ori-Cmake/out/build/x64-Debug/test/CMakeFiles/test.dir
-F:/开源项目/project/Linux-Socket-ori-Cmake/Linux-Socket-ori-Cmake/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/test/CMakeFiles/test1.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/lib/CMakeFiles/unp.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/lib/CMakeFiles/edit_cache.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/lib/CMakeFiles/rebuild_cache.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/tcpcliserv/CMakeFiles/tcpserv01.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/tcpcliserv/CMakeFiles/rebuild_cache.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/tcpcliserv/CMakeFiles/tcpcli01.dir
+F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/tcpcliserv/CMakeFiles/edit_cache.dir

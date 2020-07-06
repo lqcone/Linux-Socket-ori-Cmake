@@ -25,6 +25,12 @@
 /* Following shortens all the typecasts of pointer arguments: */
 #define	SA	struct sockaddr
 
+/* prototypes for our Unix wrapper functions: see {Sec errors} */
+
+void Close(int);
+
+
+
 /* prototypes for our socket wrapper functions: see {Sec errors} */
 int		 Accept(int, SA*, socklen_t*);
 void	 Bind(int, const SA*, socklen_t);
@@ -32,6 +38,8 @@ void	 Connect(int, const SA*, socklen_t);
 void	 Getpeername(int, SA*, socklen_t*);
 void	 Getsockname(int, SA*, socklen_t*);
 void	 Getsockopt(int, int, int, void*, socklen_t*);
+
+void Listen(int, int);
 
 
 

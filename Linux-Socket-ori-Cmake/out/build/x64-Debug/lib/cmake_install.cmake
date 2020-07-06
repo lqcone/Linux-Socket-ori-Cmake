@@ -1,4 +1,4 @@
-# Install script for directory: F:/project/socket program/Linux-Socket-ori-Cmake/test
+# Install script for directory: F:/project/socket program/Linux-Socket-ori-Cmake/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

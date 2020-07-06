@@ -1,8 +1,8 @@
-# Install script for directory: F:/开源项目/project/Linux-Socket-ori-Cmake/Linux-Socket-ori-Cmake
+# Install script for directory: F:/project/socket program/Linux-Socket-ori-Cmake
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "F:/开源项目/project/Linux-Socket-ori-Cmake/Linux-Socket-ori-Cmake/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "F:/project/socket program/Linux-Socket-ori-Cmake/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("F:/开源项目/project/Linux-Socket-ori-Cmake/Linux-Socket-ori-Cmake/out/build/x64-Debug/test/cmake_install.cmake")
+  include("F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/test/cmake_install.cmake")
+  include("F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/lib/cmake_install.cmake")
+  include("F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/tcpcliserv/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +48,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/开源项目/project/Linux-Socket-ori-Cmake/Linux-Socket-ori-Cmake/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/project/socket program/Linux-Socket-ori-Cmake/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
